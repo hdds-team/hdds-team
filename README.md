@@ -22,8 +22,8 @@ Pure-Rust DDS/RTPS middleware. Designed and built in France.
 HDDS does not claim compliance -- it is tested for it, continuously, against
 every major DDS implementation in the official OMG interoperability campaigns.
 
-- **OMG DDS-RTPS campaign** (continuous, July 2026 snapshot): the only product
-  at the maximum of both leaderboards -- perfect single-product score
+- **OMG DDS-RTPS campaign** (continuous, snapshot of 2026-07-22): the only
+  product at the maximum of both leaderboards -- perfect single-product score
   (**105/105**) and co-leading cross-product score (**1356/1505**), ahead of
   RTI Connext.
 - **OMG DDS-XTypes campaign** (run of 2026-07-17): highest cross-vendor pass
